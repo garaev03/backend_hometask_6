@@ -1,0 +1,15 @@
+C:\Users\samir\Desktop\codeAcademy\backend\hometask-5\sinif task\obj\Debug\net6.0\sinif task.csproj.AssemblyReference.cache
+C:\Users\samir\Desktop\codeAcademy\backend\hometask-5\sinif task\obj\Debug\net6.0\sinif task.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\samir\Desktop\codeAcademy\backend\hometask-5\sinif task\obj\Debug\net6.0\sinif task.AssemblyInfoInputs.cache
+C:\Users\samir\Desktop\codeAcademy\backend\hometask-5\sinif task\obj\Debug\net6.0\sinif task.AssemblyInfo.cs
+C:\Users\samir\Desktop\codeAcademy\backend\hometask-5\sinif task\obj\Debug\net6.0\sinif task.csproj.CoreCompileInputs.cache
+C:\Users\samir\Desktop\codeAcademy\backend\hometask-5\sinif task\bin\Debug\net6.0\sinif task.exe
+C:\Users\samir\Desktop\codeAcademy\backend\hometask-5\sinif task\bin\Debug\net6.0\sinif task.deps.json
+C:\Users\samir\Desktop\codeAcademy\backend\hometask-5\sinif task\bin\Debug\net6.0\sinif task.runtimeconfig.json
+C:\Users\samir\Desktop\codeAcademy\backend\hometask-5\sinif task\bin\Debug\net6.0\sinif task.dll
+C:\Users\samir\Desktop\codeAcademy\backend\hometask-5\sinif task\bin\Debug\net6.0\sinif task.pdb
+C:\Users\samir\Desktop\codeAcademy\backend\hometask-5\sinif task\obj\Debug\net6.0\sinif task.dll
+C:\Users\samir\Desktop\codeAcademy\backend\hometask-5\sinif task\obj\Debug\net6.0\refint\sinif task.dll
+C:\Users\samir\Desktop\codeAcademy\backend\hometask-5\sinif task\obj\Debug\net6.0\sinif task.pdb
+C:\Users\samir\Desktop\codeAcademy\backend\hometask-5\sinif task\obj\Debug\net6.0\sinif task.genruntimeconfig.cache
+C:\Users\samir\Desktop\codeAcademy\backend\hometask-5\sinif task\obj\Debug\net6.0\ref\sinif task.dll
